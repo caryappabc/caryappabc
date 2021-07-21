@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caryappabc
 - 👀 I’m interested in React , node, python
-- 🌱 I’m currently learning React and MERN in depth
+- 🌱 I’m working with ReactJS to built MERN applicaitons
 - 📫 How to reach me - caryappa.cari@gmail.com
 
 <!---
