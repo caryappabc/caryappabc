@@ -9,5 +9,5 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/caryappa-bc)<br />
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caryappabc&theme=vue)
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=caryappabc)
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=caryappabc)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=caryappabc&show_icons=true&theme=dark)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=caryappabc)
